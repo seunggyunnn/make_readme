@@ -1,6 +1,2 @@
-# make_readme
-## make_readme
-
-### print something
-
-#### this is a README FILE
+<www.chosun.ac.kr>
+[Chosun](http: // www.chosun.ac.kr)
